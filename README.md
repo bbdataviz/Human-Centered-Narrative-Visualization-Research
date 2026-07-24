@@ -1,4 +1,4 @@
-# Human-Centered-Narrative-Visualization-Research
+# Human Centered Narrative Visualization Research
 
 This repository documents the research and design process that led to the development of the **HG Story**. It contains the original narrative visualization prototypes, data processing pipeline, design iterations, and supplementary material associated with my Master's thesis and the subsequent IEEE VIS publication.
 
