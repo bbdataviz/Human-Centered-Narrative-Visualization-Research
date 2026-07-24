@@ -11,13 +11,13 @@ The project focuses on Hyperemesis gravidarum (HG), a severe pregnancy condition
 
 ## 🔭 Project Evolution
 
-- [Research prototypes (2023–2024)](https://github.com/bbdataviz/Human-Centered-Narrative-Visualization-Research)
+[Research prototypes (2023–2024)](https://github.com/bbdataviz/Human-Centered-Narrative-Visualization-Research)<br>
 ↓ <br>
-- [Master's thesis (2025)](https://github.com/bbdataviz/Emotional-Engagement-in-Narrative-Medical-Visualization)
+[Master's thesis (2025)](https://github.com/bbdataviz/Emotional-Engagement-in-Narrative-Medical-Visualization)<br>
 ↓ <br>
-- IEEE VIS publication (2026)
+IEEE VIS publication (2026)<br>
 ↓ <br>
-- [HG Story (React application)](https://github.com/bbdataviz/hg-story)
+[HG Story (React application)](https://github.com/bbdataviz/hg-story)
 
 
 | Goals (2025) | Status | 
