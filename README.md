@@ -1,5 +1,7 @@
 # “Visualizing untold stories through a human lens”
 
+This repository documents the research and design process that led to the development of the HG Story. It contains the original narrative visualization prototypes, data processing pipeline, design iterations, and supplementary material associated with the Master's thesis and subsequent IEEE VIS publication.
+
 An interactive web application exploring how data visualization and narrative design can communicate personal experiences behind medical data.
 
 The project focuses on Hyperemesis gravidarum (HG), a severe pregnancy condition, using data from the Norwegian Mother, Father and Child Cohort Study (MoBa). Built with HTML5, CSS3, JavaScript, and D3.js, the application combines interactive visualizations, illustration, animation, and storytelling elements to create an accessible and emotionally engaging experience.
