@@ -1,10 +1,12 @@
-# “Visualizing untold stories through a human lens”
+# Human-Centered-Narrative-Visualization-Research
 
-This repository documents the research and design process that led to the development of the HG Story. It contains the original narrative visualization prototypes, data processing pipeline, design iterations, and supplementary material associated with the Master's thesis and subsequent IEEE VIS publication.
+This repository documents the research and design process that led to the development of the **HG Story**. It contains the original narrative visualization prototypes, data processing pipeline, design iterations, and supplementary material associated with my Master's thesis and the subsequent IEEE VIS publication.
 
-An interactive web application exploring how data visualization and narrative design can communicate personal experiences behind medical data.
+The project began in 2023 at the University of Bergen as the visualization research project *"Visualizing Untold Stories through a Human Lens"*. It evolved through several research phases, including iterative prototype development, user studies, and empirical evaluation, before culminating in the modern React-based **HG Story** web application.
 
-The project focuses on Hyperemesis gravidarum (HG), a severe pregnancy condition, using data from the Norwegian Mother, Father and Child Cohort Study (MoBa). Built with HTML5, CSS3, JavaScript, and D3.js, the application combines interactive visualizations, illustration, animation, and storytelling elements to create an accessible and emotionally engaging experience.
+The research explores how narrative visualization and human-centered design can communicate the personal experiences behind medical data. As a case study, it focuses on **Hyperemesis gravidarum (HG)**, a severe pregnancy condition, using data from the **Norwegian Mother, Father and Child Cohort Study (MoBa)**.
+
+The original prototypes were developed using **HTML5, CSS3, JavaScript, and D3.js**, combining interactive visualizations, illustration, animation, and storytelling techniques to create accessible and emotionally engaging data stories.
 
 ---
 
