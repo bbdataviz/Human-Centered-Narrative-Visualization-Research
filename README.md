@@ -8,6 +8,43 @@ The project focuses on Hyperemesis gravidarum (HG), a severe pregnancy condition
 
 ---
 
+
+## 🔭 Project Evolution
+
+Research prototypes (2023–2024)
+        │
+        ▼
+Master's thesis (2025)
+        │
+        ▼
+IEEE VIS publication (2026)
+        │
+        ▼
+HG Story (React application)
+
+[Research prototypes (2023–2024)] (https://github.com/bbdataviz/Human-Centered-Narrative-Visualization-Research/edit/main/README.md)
+        │
+        ▼
+[Master's thesis (2025)] (https://github.com/bbdataviz/Emotional-Engagement-in-Narrative-Medical-Visualization)
+        │
+        ▼
+IEEE VIS publication (2026)
+        │
+        ▼
+[HG Story (React application)] (https://github.com/bbdataviz/hg-story)
+
+
+Goals (2025)	| Status
+- Refactor into a React architecture |	✅ Completed
+- Create reusable visualization components	| ✅ Completed
+- Reduce code redundancy	| ✅ Completed
+- Improve maintainability	| ✅ Completed
+- Improve accessibility	| ✅ Completed
+- Improve desktop responsiveness | 🚧 In test mode
+- Mobile responsiveness	| 🚧 In progress
+
+---
+
 ## 💡 Motivation
 
 This project explores how interactive visualization and storytelling can communicate personal experiences behind medical data.
@@ -128,30 +165,6 @@ This project gave me practical experience with:
 - translating sensitive medical topics into accessible visual communication
 - balancing aesthetics, readability, and usability
 - iterative design refinement through user feedback
-
----
-
-## 🔭 Project Evolution
-
-Research prototypes (2023–2024) [this respository] https://github.com/bbdataviz/Human-Centered-Narrative-Visualization-Research/edit/main/README.md
-        │
-        ▼
-Master's thesis (2025) [https://github.com/bbdataviz/Emotional-Engagement-in-Narrative-Medical-Visualization]
-        │
-        ▼
-IEEE VIS publication (2026)
-        │
-        ▼
-HG Story (React application) [https://github.com/bbdataviz/hg-story]
-
-Goals (2025)	| Status
-- Refactor into a React architecture |	✅ Completed
-- Create reusable visualization components	| ✅ Completed
-- Reduce code redundancy	| ✅ Completed
-- Improve maintainability	| ✅ Completed
-- Improve accessibility	| ✅ Completed
-- Improve desktop responsiveness | 🚧 In test mode
-- Mobile responsiveness	| 🚧 In progress
 
 ---
 
