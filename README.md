@@ -131,13 +131,27 @@ This project gave me practical experience with:
 
 ---
 
-## 🔭 Future Improvements
+## 🔭 Project Evolution
 
-- refactoring the project into a React-based architecture
-- creating reusable visualization and UI components
-- reducing code redundancy and improving maintainability
-- improving responsiveness across device sizes
-- enhancing accessibility and interaction patterns
+Research prototypes (2023–2024) [this respository] https://github.com/bbdataviz/Human-Centered-Narrative-Visualization-Research/edit/main/README.md
+        │
+        ▼
+Master's thesis (2025) [https://github.com/bbdataviz/Emotional-Engagement-in-Narrative-Medical-Visualization]
+        │
+        ▼
+IEEE VIS publication (2026)
+        │
+        ▼
+HG Story (React application) [https://github.com/bbdataviz/hg-story]
+
+Goals (2025)	| Status
+- Refactor into a React architecture |	✅ Completed
+- Create reusable visualization components	| ✅ Completed
+- Reduce code redundancy	| ✅ Completed
+- Improve maintainability	| ✅ Completed
+- Improve accessibility	| ✅ Completed
+- Improve desktop responsiveness | 🚧 In test mode
+- Mobile responsiveness	| 🚧 In progress
 
 ---
 
