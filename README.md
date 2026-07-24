@@ -11,39 +11,24 @@ The project focuses on Hyperemesis gravidarum (HG), a severe pregnancy condition
 
 ## 🔭 Project Evolution
 
-Research prototypes (2023–2024)
-        │
+[Research prototypes (2023–2024)](https://github.com/bbdataviz/Human-Centered-Narrative-Visualization-Research)
         ▼
-Master's thesis (2025)
-        │
+[Master's thesis (2025)](https://github.com/bbdataviz/Emotional-Engagement-in-Narrative-Medical-Visualization)
         ▼
 IEEE VIS publication (2026)
-        │
         ▼
-HG Story (React application)
-
-Link: [MoBa – Norwegian Mother, Father and Child Cohort Study](https://www.fhi.no/en/ch/studies/moba/)
-
-Link: [Research prototypes (2023–2024)] (https://github.com/bbdataviz/Human-Centered-Narrative-Visualization-Research/edit/main)
-        │
-        ▼
-[Master's thesis (2025)] (https://github.com/bbdataviz/Emotional-Engagement-in-Narrative-Medical-Visualization)
-        │
-        ▼
-IEEE VIS publication (2026)
-        │
-        ▼
-[HG Story (React application)] (https://github.com/bbdataviz/hg-story)
+[HG Story (React application)](https://github.com/bbdataviz/hg-story)
 
 
-Goals (2025)	| Status
-- Refactor into a React architecture |	✅ Completed
-- Create reusable visualization components	| ✅ Completed
-- Reduce code redundancy	| ✅ Completed
-- Improve maintainability	| ✅ Completed
-- Improve accessibility	| ✅ Completed
-- Improve desktop responsiveness | 🚧 In test mode
-- Mobile responsiveness	| 🚧 In progress
+| Goals (2025) | Status | 
+|---|---|
+| Refactor into a React architecture | ✅ Completed | 
+| Create reusable visualization components | ✅ Completed | 
+| Reduce code redundancy | ✅ Completed | 
+| Improve maintainability | ✅ Completed | 
+| Improve accessibility	| ✅ Completed | 
+| Improve desktop responsiveness | 🚧 In test mode | 
+| Mobile responsiveness	| 🚧 In progress | 
 
 ---
 
