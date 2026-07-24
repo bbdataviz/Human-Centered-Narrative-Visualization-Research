@@ -24,7 +24,7 @@ HG Story (React application)
 
 Link: [MoBa – Norwegian Mother, Father and Child Cohort Study](https://www.fhi.no/en/ch/studies/moba/)
 
-[Research prototypes (2023–2024)] (https://github.com/bbdataviz/Human-Centered-Narrative-Visualization-Research/edit/main)
+Link: [Research prototypes (2023–2024)] (https://github.com/bbdataviz/Human-Centered-Narrative-Visualization-Research/edit/main)
         │
         ▼
 [Master's thesis (2025)] (https://github.com/bbdataviz/Emotional-Engagement-in-Narrative-Medical-Visualization)
