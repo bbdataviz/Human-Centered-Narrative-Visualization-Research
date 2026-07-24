@@ -94,16 +94,16 @@ Link: [MoBa – Norwegian Mother, Father and Child Cohort Study](https://www.fhi
 
 ## 📊 Repository Contents
 ```
-/data
-/data_exploration
-/prototypes
- /general_story
-  /js
-  /svg
- /individual_story
-  /js
-  /svg
-/screenshots
+archive/
+├── individual-story/     Original individualized narrative visualization prototype
+└── general-story/        Original generalized narrative visualization prototype
+
+data-processing/
+├── data/                 Source datasets
+├── processed/            Processed datasets used for the prototypes
+└── documentation/        Data processing scripts and documentation
+
+screenshots/              Figures illustrating the research prototypes
 ```
 ---
 
